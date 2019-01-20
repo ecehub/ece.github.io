@@ -32,7 +32,7 @@
   ],
   "homepage": "https://ece.github.io/",
   "main": "index.js",
-  "repository": "https://github.com/ecehub/ecehub.github.io.git",
+  "repository": "https://github.com/ecehub/ece.github.io.git",
   "author": "Avnish <Avnishway@gmail.com>",
   "license": "MIT"
 }
